@@ -9,3 +9,4 @@ This log tracks architectural and documentation refinements.
 - `2024-12-06` — rephrase TL;DR
 - `2024-12-06` — surface key invariants
 - `2025-01-30` — expand 'My Role' section
+- `2025-01-31` — scope clarification
