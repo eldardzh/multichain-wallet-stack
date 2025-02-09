@@ -11,3 +11,4 @@ This log tracks architectural and documentation refinements.
 - `2025-01-30` — expand 'My Role' section
 - `2025-01-31` — scope clarification
 - `2025-02-07` — heading hierarchy
+- `2025-02-09` — terminology cleanup
