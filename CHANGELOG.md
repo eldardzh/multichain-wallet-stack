@@ -14,3 +14,4 @@ This log tracks architectural and documentation refinements.
 - `2025-02-09` — terminology cleanup
 - `2025-02-12` — contact block tidy
 - `2025-02-13` — surface key invariants
+- `2025-04-07` — scope clarification
