@@ -19,3 +19,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-08` — scope clarification
 - `2025-04-09` — badges + status
 - `2025-04-11` — terminology cleanup
+- `2025-04-11` — badges + status
