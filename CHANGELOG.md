@@ -23,3 +23,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-11` — ADR — chain-agnostic boundary
 - `2025-04-11` — contact block tidy
 - `2025-04-11` — badges + status
+- `2025-04-12` — surface key invariants
