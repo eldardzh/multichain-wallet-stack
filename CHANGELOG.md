@@ -25,3 +25,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-11` — badges + status
 - `2025-04-12` — surface key invariants
 - `2025-04-12` — improve mermaid diagram
+- `2025-04-13` — markdown lint
