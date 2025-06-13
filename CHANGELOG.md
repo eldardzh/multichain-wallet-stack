@@ -28,3 +28,4 @@ This log tracks architectural and documentation refinements.
 - `2025-04-13` — markdown lint
 - `2025-06-12` — badges + status
 - `2025-06-13` — more precise stack list
+- `2025-06-13` — cross-link related repositories
