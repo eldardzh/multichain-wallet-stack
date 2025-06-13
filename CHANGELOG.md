@@ -29,3 +29,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-12` — badges + status
 - `2025-06-13` — more precise stack list
 - `2025-06-13` — cross-link related repositories
+- `2025-06-14` — gitignore
