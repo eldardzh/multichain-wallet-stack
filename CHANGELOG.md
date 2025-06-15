@@ -31,3 +31,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-13` — cross-link related repositories
 - `2025-06-14` — gitignore
 - `2025-06-15` — ADR — reorg-safe projection
+- `2025-06-16` — rephrase capabilities
