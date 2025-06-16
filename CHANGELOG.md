@@ -33,3 +33,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-15` — ADR — reorg-safe projection
 - `2025-06-16` — rephrase capabilities
 - `2025-06-16` — expand 'My Role' section
+- `2025-06-16` — more precise stack list
