@@ -35,3 +35,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-16` — expand 'My Role' section
 - `2025-06-16` — more precise stack list
 - `2025-06-18` — tighten architecture overview
+- `2025-07-11` — expand 'My Role' section
