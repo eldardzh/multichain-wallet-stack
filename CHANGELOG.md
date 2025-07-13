@@ -37,3 +37,4 @@ This log tracks architectural and documentation refinements.
 - `2025-06-18` — tighten architecture overview
 - `2025-07-11` — expand 'My Role' section
 - `2025-07-11` — gitignore
+- `2025-07-13` — license notice
