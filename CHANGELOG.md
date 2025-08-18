@@ -39,3 +39,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-11` — gitignore
 - `2025-07-13` — license notice
 - `2025-07-15` — rephrase TL;DR
+- `2025-08-18` — tighten decisions section
