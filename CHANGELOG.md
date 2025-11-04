@@ -41,3 +41,4 @@ This log tracks architectural and documentation refinements.
 - `2025-07-15` — rephrase TL;DR
 - `2025-08-18` — tighten decisions section
 - `2025-11-03` — gitignore
+- `2025-11-04` — production status update
