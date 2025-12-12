@@ -46,3 +46,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-05` — badges + status
 - `2025-11-05` — expand 'My Role' section
 - `2025-11-06` — rephrase capabilities
+- `2025-12-12` — more precise stack list
