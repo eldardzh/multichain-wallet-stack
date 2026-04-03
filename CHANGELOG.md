@@ -48,3 +48,4 @@ This log tracks architectural and documentation refinements.
 - `2025-11-06` — rephrase capabilities
 - `2025-12-12` — more precise stack list
 - `2025-12-14` — improve mermaid diagram
+- `2026-04-03` — badge refresh
