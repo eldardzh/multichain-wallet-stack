@@ -49,3 +49,4 @@ This log tracks architectural and documentation refinements.
 - `2025-12-12` — more precise stack list
 - `2025-12-14` — improve mermaid diagram
 - `2026-04-03` — badge refresh
+- `2026-05-11` — cross-link related repositories
