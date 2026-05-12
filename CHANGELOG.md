@@ -52,3 +52,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-11` — cross-link related repositories
 - `2026-05-11` — rephrase capabilities
 - `2026-05-12` — clarify component responsibilities
+- `2026-05-12` — clarify component responsibilities
