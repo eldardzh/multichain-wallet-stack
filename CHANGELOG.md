@@ -56,3 +56,4 @@ This log tracks architectural and documentation refinements.
 - `2026-05-13` — contact block tidy
 - `2026-05-13` — improve mermaid diagram
 - `2026-05-13` — link external references
+- `2026-05-15` — production status update
